@@ -6,7 +6,7 @@ from categories import email_categories
 import json
 import re
 openai = OpenAI(
-    api_key="zwxEF8eh280G8z2sSVzxEij9",
+    api_key="#",
     base_url="https://cloud.olakrutrim.com/v1",
 )
 
